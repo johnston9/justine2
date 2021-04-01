@@ -1,6 +1,8 @@
 <h1 align="center">Justine Cote Website</h1>
 
-[View the project live here.](https://johnston9.github.io/ms1-justine/)
+[View the project live here.](https://johnston9.github.io/justine2/)
+
+This is a display clone of the original site. View the original [here](https://github.com/johnston9/ms1-justine)
 
 This is the website for the artist Justine Cote. It is designed to show her work, past and present in digital art, painting and sculpture. It also advertises her latest exhibition and shows her past exhibitions and placements. It has a contact page and is also intended as a glimpse into the artist's world.
 
